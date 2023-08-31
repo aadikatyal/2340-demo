@@ -1,1 +1,3 @@
 new file created directly on remote repository (testing fetch)
+
+new text (local repo)
